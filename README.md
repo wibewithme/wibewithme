@@ -2,9 +2,9 @@
 - 👀 I’m interested in coding and hacking
 - 🌱 I’m currently learning both.
 - 💞️ I’m looking to collaborate...
-- 📫 How to reach me @wizard_anil 
+- 📫 How to reach me iamaniljoshi07@gmail.com 
 - 😄 Pronouns: Air
-- ⚡ Fun fact: 🤕
+- ⚡ Fun fact: nothing
 
 <!---
 wibewithme/wibewithme is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
